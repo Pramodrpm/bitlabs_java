@@ -1,0 +1,12 @@
+write an algorithm to find the sum of positive factors of a integer 
+
+1. start
+2. read the positive integer n 
+3. initialize i<---1, sum<---0
+4. repeatedly execute the step (4.1) - (4.2) until (i<=n)
+	4.1 if(n%i==0)
+		sum=sum+i
+	4.2 i<-- i+1 
+5. print "sum"
+6. stop
+

@@ -1,0 +1,10 @@
+write an algorithm to find the factorial of a positive integer
+
+1. start
+2. read the positive integer n
+3. initialize fact<---1, i<---1
+4. repeatedly execute the step (1)-(2) until (i<=n)
+	4.1 fact<-- fact*i
+	4.2 i<--i+1
+5. print fact
+6. stop

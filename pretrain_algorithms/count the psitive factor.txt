@@ -1,0 +1,10 @@
+write an algorithm to find the count of positive factors of a integer
+1. start
+2. read the positive integer n 
+3. initialize count<--- 0, i<--1
+4. repeatedly execute the step (4.1) - (4.2) until (i<=n)
+	4.1 if(n%i==0)
+		count<---count+1
+	4.2 i<-- i+1 
+5. print "count"
+6. stop

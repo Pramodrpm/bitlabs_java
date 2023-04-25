@@ -1,0 +1,11 @@
+write an algorithm to find the sum of first n even numbers (2,4,6.......)
+
+step1. start 
+step2. read the positive integer n
+step3. initialize even<--0, i<---2
+step4. repeatedly execute the step (4.1) - (4.2) until (i<=n)
+	4.1 even<-- even+2
+	4.2 i<-- i+2
+	4.3 count <--count+1
+step5. print even
+step6. stop

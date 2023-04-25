@@ -1,0 +1,11 @@
+write an algorithm to find the product of first n odd umbers(1,3,5,......)
+
+step1. start 
+step2. read the positive integer n
+step3. initialize product<--0, i<---2, count<--1
+step4. repeatedly execute the step (4.1), (4.2) and (4.3) until (i<=n)
+	4.1 product<-- product*i
+	4.2 i<-- i+2
+	4.3 count <--count+1
+step5. print product
+step6. stop
